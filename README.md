@@ -19,4 +19,4 @@ are characterised by heavy pollution.
 We plan to majorly extend the scope of our approach by including polluters 
 of any size around the globe in the near future. On top of that we plan on 
 increasing the monitored varibles by including further satellite data - other 
-effluents, land waste, water contmination, ground water levels etc.)
+effluents, land waste, water contamination, ground water levels etc.)

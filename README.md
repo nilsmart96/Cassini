@@ -10,9 +10,9 @@ is even more to come...
 The first variable we are monitoring are NO2 Values at the production 
 locations of corporates. These gases are a by-product of any combustion 
 of fossil fuels and are therefore also a component of the exhaust gases. 
-We achieve this by using a novel framework of satellite data collection 
-and processing. The Sentinel 5P program from copernicus serves as our 
-data source for NO2.
+The data is aggregated by a novel scalable framework of satellite data 
+collection and processing. The Sentinel 5P program from copernicus serves 
+as our data source for NO2.
 
 Today we can present to you a proof-of-concept containing 7 locations that 
 are characterised by heavy pollution. 

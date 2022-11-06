@@ -13,4 +13,5 @@ date source.
 
 Today we can present to you a proof-of-concept containing 7 locations that 
 are characterised by heavy pollution. We plan to majorly extend the scope 
-of our approuch by including polluters of any size around the globe.
+of our approuch by including polluters of any size around the globe in the
+near future.
